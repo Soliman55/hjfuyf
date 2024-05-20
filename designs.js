@@ -4,7 +4,7 @@
 
     var designs = [
 `###
-# mooncat design: 0 - Standing Smiling Pure Left; size: 21x17
+# MeowCh design: 0 - Standing Smiling Pure Left; size: 21x17
 
 . . @ . . . . . @ . . . . . . . . . . . .
 . @ o @ . . . @ o @ . . . . . . . . . . .
@@ -25,7 +25,7 @@
 . . . . @ @ @ @ @ @ @ @ @ @ . . . . . . .
 `,
 `###
-# mooncat design: 1 - Sleeping Smiling Pure Left; size: 20x14
+# MeowCh design: 1 - Sleeping Smiling Pure Left; size: 20x14
 
 . . . @ . . . . . @ . . . . . . . . . .
 . . @ o @ . . . @ o @ . . . . . . . . .
@@ -43,7 +43,7 @@
 . . . . . . . . . @ @ @ @ @ @ @ @ . . .
 `,
 `###
-# mooncat design: 2 - Pouncing Smiling Pure Left; size: 17x22
+# MeowCh design: 2 - Pouncing Smiling Pure Left; size: 17x22
 
 . . . @ . . . . . @ @ . . . . . .
 . . @ o @ . . . @ o @ . . . . . .
@@ -69,7 +69,7 @@
 . . . . . @ @ . . . @ @ @ . . . .
 `,
 `###
-# mooncat design: 3 - Stalking Smiling Pure Left; size: 20x21
+# MeowCh design: 3 - Stalking Smiling Pure Left; size: 20x21
 
 . . . . . . . . . . @ @ @ @ @ @ . . . .
 . . . . . . . . . . @ o o o o @ @ @ . .
@@ -94,7 +94,7 @@
 @ @ @ @ . @ @ @ . . . . . . @ @ @ @ . .
 `,
 `###
-# cryptocat design: 0; size: 32x32
+# MeowCh design: 0; size: 32x32
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -130,7 +130,7 @@
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 `,
 `###
-# cryptocat design: 1; size: 32x32
+# MeowCh design: 1; size: 32x32
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
